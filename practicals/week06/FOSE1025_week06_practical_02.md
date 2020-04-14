@@ -17,7 +17,7 @@ One of the tasks of the unit project (**Remember, the submission deadline for th
 
 * https://www.linkedin.com/learning/excel-for-sales-professionals/import-data-from-many-files
 
-If you cannot, search the web and find a way to merge all the CSV files of this folder into one file and import it into a single Excel worksheet.
+If you cannot user PowerQuery or follow the video, search the web and find a way to merge all the CSV files of this folder into one file and import it into a single Excel worksheet.
 
 * [MonthlySalesFiles](https://ilearn.mq.edu.au/mod/folder/view.php?id=5675219)
 
