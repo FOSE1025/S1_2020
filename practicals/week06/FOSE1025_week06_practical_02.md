@@ -19,7 +19,7 @@ One of the tasks of the unit project (**Remember, the submission deadline for th
 
 If you cannot, search the web and find a way to merge all the CSV files of this folder into one file and import it into a single Excel worksheet.
 
-* [MonthlySalesFiles](MonthlySalesFiles)
+* [MonthlySalesFiles](https://ilearn.mq.edu.au/mod/folder/view.php?id=5675219)
 
 ## Activity 3 - Data Exploration and Cleaning (10 minutes + 5 minutes discussion)
 
