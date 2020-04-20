@@ -26,4 +26,4 @@ If you cannot user PowerQuery or follow the video, search the web and find a way
 Use the table that you imported in activity 2 and answer the following questions:
 
 1. What columns are categorical data and what are the categories?
-2. The column with the employee name contain both the first name and the surname. Use the "text to columns" feature to split the person's name into two columns named `firstname` and `surname` respectively.
+2. The column with the employee name contains both the first name and the surname. Use the "text to columns" feature to split the person's name into two columns named `firstname` and `surname` respectively.
