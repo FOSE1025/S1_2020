@@ -1,7 +1,7 @@
 # Week 8 SGTA
 # PRAC_01
 
-The following are group exercises. For every group, nominate one person who will explain what you have done. The group exercises will be carried out as zoom breakouts and always the same students will be in the same group. Each time, nominate a different person so that all have the opportunite to practice their presentation skills.
+The following are group exercises. For every group, nominate one person who will explain what you have done. The group exercises will be carried out as zoom breakouts and always the same students will be in the same group. Each time, nominate a different person so that all have the opportunity to practice their presentation skills.
 
 
 ## Activity 1 - Analyse Tables (10 minutes + 5 minutes discussion)
@@ -54,7 +54,7 @@ Report the following:
 4. What did you use in the "Filters" section and what specific filter did you select?
 
 # PRAC_02
-The following are group exercises. For every group, nominate one person who will explain what you have done. The group exercises will be carried out as zoom breakouts and always the same students will be in the same group. Each time, nominate a different person so that all have the opportunite to practice their presentation skills.
+The following are group exercises. For every group, nominate one person who will explain what you have done. The group exercises will be carried out as zoom breakouts and always the same students will be in the same group. Each time, nominate a different person so that all have the opportunity to practice their presentation skills.
 
 ## Activity 1 - Transform Data (10 minutes + 10 minutes discussion)
 
@@ -74,7 +74,7 @@ Conduct the following tasks:
 
 ## Activity 2 - Charting Pivot Tables (5 minutes + 5 minutes discussion)
 
-Using the same data from activity 1, create a pivot chart that displays the average height of each player position. the resulting chart should look like this:
+Using the same data from activity 1, create a pivot chart that displays the average height of each player position. The resulting chart should look like this:
 
 ![barchart.png](barchart.png)
 
