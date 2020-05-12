@@ -12,19 +12,20 @@ Please spend the first minutes of this session to complete the online survey of 
 The following are group exercises. For every group, nominate one person who will explain what you have done. The group exercises will be carried out as zoom breakouts and always the same students will be in the same group. Each time, nominate a different person so that all have the opportunity to practice their presentation skills.
 
 
-### Imagined ethics case study (10 minutes + 10 minutes discussion)
+### Hypothetical ethics case study (10 minutes + 10 minutes discussion)
 
-Below is an imagined case. In your breakout room, read the case and answer the questions below.
+Below is a hypothetical case. In your breakout room, read the case and answer the questions below.
 
-> You need to determine the attitudes of Australians with respect to the use of online learning tools. Since you do not have much time you decide to gather a collection of tweet posts made available by Twitter and use it for your research. This collection is public, anybody can use it, but it is a small portion of all tweets posted by people worldwide. Twitter allows users to store the tweets collected for personal use but forbid users to distribute the tweets to other people.
+> You need to determine the attitudes of Australians with respect to the use of online learning tools. Since you do not have much time you decide to gather a collection of tweet posts made available by Twitter and use it for your research. This collection is public, anybody can use it, but it is a small portion of all tweets posted by people worldwide. Twitter allows people to store the tweets collected for personal use but forbids them to distribute the tweets to other people.
 
-1. If we store the tweets in our local computers, are there any issues related to privacy or security?
-2. This scenario has issues regarding fairness. Discuss the nature of these issues.
-3. Are there any issues related with disclosure?
+1. If we stored the tweets in our local computers, would there be any issues related to privacy or security?
+2. If we stored the tweets in the cloud, would there be any issues related to privacy or security?
+3. This scenario has issues regarding fairness. Discuss the nature of these issues.
+4. Are there any issues related with disclosure?
 
 ### Real ethics case study (10 minutes + 10 minutes discussion)
 
-The media has recently aired several possible ethic issues of the CovidSafe app that the Australian government has made available. In your breatkout room, outline the main issues reported by the media that are related to the ethical aspects of data that we are covering in this unit.
+The media has recently aired several possible ethic issues of the COVIDSafe app that the Australian government has made available. In your breakout room, outline the main issues reported by the media that are related to the ethical aspects of data that we are covering in this unit.
 
 # PRAC_02
 
