@@ -20,7 +20,7 @@ The following links lead to MATLAB Online. Use them to start MATLAB Online:
 * Information about MATLAB licenses for Macquarie University students: https://au.mathworks.com/academia/tah-portal/macquarie-university-916052.html
 * Access MATLAB Online: https://matlab.mathworks.com/
 
-In your breakout room, download all following CSV files from this folder:
+In your breakout room, download all following CSV files from this folder (this is data you used in the SGTA of week 6):
 * [MonthlySalesFiles](https://ilearn.mq.edu.au/mod/folder/view.php?id=5675219) 
 and save them in a MATLAB Drive folder named `MonthlySalesFiles`.
 
