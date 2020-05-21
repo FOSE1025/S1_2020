@@ -58,13 +58,11 @@ If you have done PRAC_01 already, use the live script that you produced in PRAC_
 * [MonthlySalesFiles](https://ilearn.mq.edu.au/mod/folder/view.php?id=5675219) 
 into three variables: `sales_jan`, `sales_feb`, `sales_mar`
 
-If you have not done PRAC_01 yet, try to figure out how to import the files into the three variables. For example, you can use the following function to load the February data:
+If you have not done PRAC_01 yet, upload the following script to the MATLAB Drive:
 
-```
-sales_feb = readtable("/MATLAB Drive/MonthlySalesFiles/02_05 - Sales Analysis FEB.csv");
-```
+* [LoadSales.mlx](LoadSales.mlx)
 
-If your breakout room has students that have done PRAC_01 and students that haven't, exchange experiences and discuss the advantages and inconveniences of each way of loading the data.
+This live script will download the January data. Edit it so that it uses the correct path where your files are located. Again, edit it to load the February and March data.
 
 ## Process tables in MATLAB (10 minutes + 10 minutes discussion)
 
